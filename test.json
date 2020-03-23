@@ -1,0 +1,36 @@
+[
+    {
+        "title": "An-Naba",
+        "text": "The content of note 1",
+        "yt" : "https://www.youtube.com/watch?v=YX7Zropbw6g",
+        "image" : "images/quran.jpg"
+    },
+
+    {
+        "title": "An-Naziat",
+        "text": "The content of note 2",
+        "yt" : "https://www.youtube.com/",
+        "image" : "images/quran.jpg"
+    },
+
+    {
+        "title": "'Abasa",
+        "text": "The content of note 3",
+        "yt" : "https://www.youtube.com/",
+        "image" : "images/quran.jpg"
+    },
+
+    {
+        "title": "At-Takwir",
+        "text": "The content of note 4",
+        "yt" : "https://www.youtube.com/",
+        "image" : "images/quran.jpg"
+    },
+
+    {
+        "title": "Al-Infitar s/d An-Naas",
+        "text": "The content of note 2",
+        "yt" : "https://www.youtube.com/",
+        "image" : "images/quran.jpg"
+    }
+]
