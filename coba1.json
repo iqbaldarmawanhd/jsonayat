@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Sholat Tahajjud",
+        "text": "2 rakaat ",
+        "yt" : "https://www.youtube.com/",
+        "image" : "images/quran.jpg"
+    },
+    
+    {
+        "title": "Sholat Witir",
+        "text": "rakat ganjil dimulai dari 1",
+        "yt" : "https://www.youtube.com/",
+        "image" : "images/quran.jpg"
+    },
+
+    {
+        "title": "Sholat Fajr",
+        "text": "rakaat",
+        "yt" : "https://www.youtube.com/",
+        "image" : "images/quran.jpg"
+    },
+
+    {
+        "title": "Sholat Subuh",
+        "text": "The content of note 3",
+        "yt" : "https://www.youtube.com/",
+        "image" : "images/quran.jpg"
+    },
+
+    {
+        "title": "Sholat Dhuha",
+        "text": "The content of note 4",
+        "yt" : "https://www.youtube.com/",
+        "image" : "images/quran.jpg"
+    },
+     {
+        "title": "Sholat subuh",
+        "text": "The content of note 4",
+        "yt" : "https://www.youtube.com/",
+        "image" : "images/quran.jpg"
+    }
+    
+]
